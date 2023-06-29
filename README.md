@@ -1,7 +1,7 @@
 # estudoWebModerno
 Conhecimentos necessarios para o GIT
 
-Passo a passo para subir no Git
+*Passo a passo para subir no Git*
 
 PEGANDO O CÓDIGO NO GIT DE TERCEIROS
 **1- clonar o código para sua maquina**
@@ -35,4 +35,4 @@ git commit -m 'informações sobre o que terá nesse commit'
 git push irá jogar todas as modificações para a sua pasta no git
 
 
-Pratica do curso de Web Moderno Completo com JS
+
